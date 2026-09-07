@@ -3,7 +3,7 @@
 A modern, animated marketing landing page for "Loop" (a fictional async-work
 SaaS product), built with React, Vite, Tailwind CSS, and Framer Motion.
 
-![Loop landing page preview](./screenshots/hero-desktop.png)
+![Loop landing page preview](./screenshots/dashboard-desktop.png)
 
 ## Live demo
 
@@ -103,6 +103,9 @@ npm run build
 
 Add screenshots to `/screenshots` before publishing (desktop, tablet, mobile,
 and one of the dark theme).
+- `dashboard-desktop.png`
+- `dashboard-tablet.png`
+- `dashboard-mobile.png`
 
 ## License
 
